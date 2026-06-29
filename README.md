@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Vladyslav Knysh - Senior Full-Stack Engineer" width="100%" />
+</p>
+
 <div align="center">
 
 ```
@@ -5,7 +9,7 @@ V L A D Y S L A V   K N Y S H
 ```
 
 ```
-> whoami
+> what kind of boar is this?
   vvladyslavKn
 
 > title
@@ -15,12 +19,12 @@ V L A D Y S L A V   K N Y S H
   Ukraine · Remote EU/US
 
 > status
-  shipping scalable SaaS with pragmatic engineering
+  happily oinking, productively shipping scalable SaaS
 ```
 
 ---
 
-*// wild boar energy, production discipline //*
+*// the boar happily oinks and works productively //*
 *// breaks through complexity, ships clean //*
 
 </div>
@@ -86,7 +90,7 @@ connect · build · ship
 
 ```txt
 // vvladyslavKn.exe
-// wild boar energy, production discipline
+// the boar happily oinks and works productively
 // breaks through complexity, ships clean
 ```
 
