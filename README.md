@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Vladyslav Knysh - Senior Full-Stack Engineer" width="100%" />
+  <img src="./profile-banner.png" alt="Vladyslav Knysh - Senior Full-Stack Engineer" width="100%" />
 </p>
 
 ```txt
