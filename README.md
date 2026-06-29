@@ -1,16 +1,36 @@
-## Hi there 👋
+```bash
+> whoami
+```
 
-<!--
-**vvladyslavKn/vvladyslavKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Vladyslav Knysh
+Senior Full-Stack Engineer
+Product-Focused Builder | Systems Thinker | Engineering Pragmatist
+```
 
-Here are some ideas to get you started:
+```bash
+> stack --core
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+Frontend:  React | Next.js | TypeScript
+Backend:   Node.js | APIs | PostgreSQL
+Focus:     Product engineering | scalable systems | clean delivery
+```
+
+```bash
+> contact --open
+```
+
+```txt
+Email:    knyshvladyslav1@gmail.com
+LinkedIn: https://www.linkedin.com/in/vladyslavvknysh/
+```
+
+```bash
+> status
+```
+
+```txt
+Building reliable full-stack products with pragmatic engineering.
+```
