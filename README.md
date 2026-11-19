@@ -27,6 +27,10 @@
 | **Cloud** | AWS (S3), Docker, GitHub Actions |
 | **AI** | OpenAI API, embeddings, pgvector |
 
+### Notes
+
+Write-ups on real-time processing, Postgres performance and ledger design, with schema sketches: [engineering-notes](https://github.com/vvladyslavKn/engineering-notes)
+
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/vladyslavvknysh/) · knyshvladyslav1@gmail.com
