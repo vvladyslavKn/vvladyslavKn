@@ -2,96 +2,31 @@
   <img src="./profile-banner.png" alt="Vladyslav Knysh - Senior Full-Stack Engineer" width="100%" />
 </p>
 
-<div align="center">
+<h1 align="center">Vladyslav Knysh</h1>
 
-```
-V L A D Y S L A V   K N Y S H
-```
-
-```
-> what kind of boar is this?
-  vvladyslavKn
-
-> title
-  Senior Full-Stack Engineer (5+ yrs) | Next.js · Node.js · React Native · TypeScript · AWS | Shipping SaaS that scales · Remote EU/US
-
-> location
-  Ukraine · Remote EU/US
-
-> status
-  happily oinking, productively shipping scalable SaaS
-```
+<p align="center">Senior Full-Stack Engineer | TypeScript, Node.js, PostgreSQL | 6+ years | Remote EU/US</p>
 
 ---
 
-*// the boar happily oinks and works productively //*
-*// breaks through complexity, ships clean //*
+### What I work on
 
-</div>
+- **Real-time systems** — WebSocket delivery and event processing: chat sync across iOS, web and backend from 3 s to under 1 s, server-side event processing from 1.8 s to 700 ms.
+- **Backend and data** — Node.js / NestJS APIs on PostgreSQL: schema design, migrations, query and index tuning, Redis caching. p95 API latency from 850 ms to 320 ms on key modules.
+- **Multi-tenant SaaS** — tenant isolation, operational dashboards, feature work end to end from database schema to interface.
+- **Mobile** — React Native and Expo, iOS and Android release pipelines.
 
----
+### Stack
 
-```
-STACK
-─────────────────────────────────────────────
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, SQL |
+| **Web** | React, Next.js, TanStack Query, Redux, Zustand |
+| **Server** | Node.js, NestJS, Express, REST, GraphQL, WebSockets |
+| **Data** | PostgreSQL, Prisma, Redis, schema design, migrations |
+| **Mobile** | React Native, Expo (EAS) |
+| **Cloud** | AWS (S3), Docker, GitHub Actions |
+| **AI** | OpenAI API, embeddings, pgvector |
 
-  language  →  TypeScript
+### Contact
 
-  web       →  React · Next.js
-
-  server    →  Node.js · NestJS · Express
-               GraphQL · REST APIs · WebSockets
-
-  mobile    →  React Native · Expo
-
-  data      →  PostgreSQL · Prisma · Redis
-               Firebase · Supabase
-
-  cloud     →  AWS · Docker · GitHub Actions
-
-  testing   →  Jest · Cypress · Playwright
-
-─────────────────────────────────────────────
-```
-
----
-
-<div align="center">
-
-```
-initializing...
-
-  product → architecture → code → shipped
-
-ready
-```
-
-</div>
-
----
-
-```
-CONTACT
-─────────────────────────────────────────────
-
-  linkedin  →  https://www.linkedin.com/in/vladyslavvknysh/
-  email     →  knyshvladyslav1@gmail.com
-
-─────────────────────────────────────────────
-```
-
-<div align="center">
-
-```
-connect · build · ship
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vvladyslavKn&color=00FF41&style=flat-square&label=visitors)
-
-```txt
-// vvladyslavKn.exe
-// the boar happily oinks and works productively
-// breaks through complexity, ships clean
-```
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/vladyslavvknysh/) · knyshvladyslav1@gmail.com
